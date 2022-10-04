@@ -33,7 +33,7 @@ const (
 )
 
 const (
-	defaultRedisPoolSize = 128
+	defaultRedisPoolSize = 256
 	// redisDataBatchLimit is a max amount of data requests in one batch.
 	redisDataBatchLimit = 64
 )
